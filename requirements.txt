@@ -1,2 +1,2 @@
 Discord.py
-aiosqlite
+python-dotenv
